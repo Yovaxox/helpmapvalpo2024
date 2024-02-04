@@ -18,11 +18,11 @@ const Map = ({ helpAreas }) => {
 
     // Define un icono personalizado
     const customIcon = new L.Icon({
-      iconUrl: '../marker-icon.png',
+      iconUrl: '../../marker-icon.png',
       iconSize: [32, 48], // Tamaño del ícono
       iconAnchor: [16, 32], // Punto de anclaje del ícono (la parte del ícono que se alinea con la ubicación del marcador)
       popupAnchor: [0, -32], // Punto de anclaje del popup (la parte del popup que se alinea con la ubicación del marcador)
-      shadowUrl: '../marker-shadow.png',
+      shadowUrl: '../../marker-shadow.png',
     })
 
     // Itera sobre los lugares y agrega marcadores con el ícono personalizado
