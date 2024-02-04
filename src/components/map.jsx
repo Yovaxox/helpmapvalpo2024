@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react'
 import L from 'leaflet'
 import 'leaflet/dist/leaflet.css'
-import ReactDOMServer from 'react-dom/server';
+import ReactDOMServer from 'react-dom/server'
 
 const Map = ({ helpAreas }) => {
   useEffect(() => {
@@ -16,9 +16,17 @@ const Map = ({ helpAreas }) => {
       attribution: '&copy; OpenStreetMap contributors | Made by @Yovaxox',
     }).addTo(map)
 
-    // Markers for help locations
+    // Define un icono personalizado
+    const customIcon = new L.Icon({
+      iconUrl: '../marker-icon.png',
+      iconSize: [32, 48], // Tamaño del ícono
+      iconAnchor: [16, 32], // Punto de anclaje del ícono (la parte del ícono que se alinea con la ubicación del marcador)
+      popupAnchor: [0, -32], // Punto de anclaje del popup (la parte del popup que se alinea con la ubicación del marcador)
+    })
+
+    // Itera sobre los lugares y agrega marcadores con el ícono personalizado
     helpAreas.forEach((place) => {
-      L.marker(place.location)
+      L.marker(place.location, { icon: customIcon }) // Usa el ícono personalizado
         .addTo(map)
         .bindPopup(ReactDOMServer.renderToString(place.html), { minWidth: 300 })
     })
