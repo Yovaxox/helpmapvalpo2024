@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Donaciones",
+    "location": "Liceo Guillermo Rivera",
+    "address": "Álvarez N°708, Viña del Mar",
+    "firstAid": [
+      "Gasa",
+      "Suero",
+      "Cinta para curaciones",
+      "Tela adhesiva",
+      "Kit de curaciones",
+      "Material de curación"
+    ],
+    "others": [
+      "Útiles de aseo",
+      "Toallas higiénicas",
+      "Leche fórmula para bebés",
+      "Leche líquida en caja",
+      "Aguas 2 litros",
+      "Legumbres (en caja o bolsas selladas)",
+      "Arroz",
+      "Tallarines",
+      "Salsa de tomate",
+      "Silla de ruedas",
+      "Vasos",
+      "Alargadores",
+      "Barras de cereal",
+      "Colaciones individuales",
+      "Colchones",
+      "Frazadas"
+    ],
+    "coordinates": [-33.026980887747456, -71.55096375601073]
+  },
+  {
+    "title": "Albergue Municipal",
+    "location": "Colegio República de Colombia",
+    "address": "10 Norte N°985, Viña del Mar",
+    "coordinates": [-33.01342820647648, -71.54615356810207]
+  },
+  {
+    "title": "Albergue Municipal",
+    "location": "Escuela Humberto Vilches",
+    "address": "11 Norte N°946, Viña del Mar",
+    "coordinates": [-33.01290287501052, -71.54638104313118]
+  },
+  {
+    "title": "Servicios de Salud",
+    "location": "CESFAM Marco Maldonado / Curaciones",
+    "address": "Álvarez 1682, 2570007, Viña del Mar",
+    "coordinates": [-33.0296366449964, -71.5401900225359]
+  },
+  {
+    "title": "Servicios de Salud",
+    "location": "SAPU Nueva Aurora",
+    "address": "Agua Santa S/N, Viña del Mar",
+    "coordinates": [-33.04805385679825, -71.56484064031547]
+  },
+  {
+    "title": "Servicios de Salud",
+    "location": "SAPU Gómez Carreño",
+    "address": "Diecinueve Pte. 5650, 2540807, Viña del Mar",
+    "coordinates": [-32.99228457003399, -71.52536714584782]
+  },
+  {
+    "title": "Servicios de Salud para Mascotas",
+    "location": "Liceo Guillermo Rivera",
+    "address": "Álvarez N°708, Viña del Mar",
+    "coordinates": [-33.027111279362664, -71.55047063786795]
+  },
+  {
+    "title": "Atención de Niños y Personas Perdidas",
+    "location": "Colegio República de Colombia",
+    "address": "10 Norte N°985, Viña del Mar",
+    "coordinates": [-33.01344935694151, -71.54595689505236]
+  },
+  {
+    "title": "Donaciones",
+    "location": "Delegación de Reñaca",
+    "address": "Av. Borgoño 15280, Viña del Mar",
+    "others": [
+      "Agua",
+      "Leche fórmula para bebés",
+      "Kit de aseo",
+      "Toallas higiénicas",
+      "Cepillos de dientes",
+      "Pasta de dientes",
+      "Alimentos no perecibles",
+      "Alimentos para mascotas",
+      "Comida seca para perros y gatos"
+    ],
+    "coordinates": [-32.970041236587534, -71.54351021739234]
+  },
+  {
+    "title": "Donaciones",
+    "location": "UDLA (Universidad de las Américas)",
+    "address": "7 Norte 1348, Viña del Mar",
+    "others": [
+      "Pasta de dientes",
+      "Desodorantes",
+      "Almohadas",
+      "Bolsas de basura",
+      "Cepillo de dientes",
+      "Jabón",
+      "Toallas húmedas"
+    ],
+    "coordinates": [-33.017609646280334, -71.54176481687081]
+  },
+  {
+    "title": "Servicios de Salud para Mascotas",
+    "location": "Escuela Libertador Bernardo O'Higgins (Sólo atenciones)",
+    "address": "Alberto Blest Gana N°360",
+    "coordinates": [-33.02778340197401, -71.54843639876071]
+  },
+  {
+    "title": "Albergue Municipal",
+    "location": "Escuela Santa Julia",
+    "address": "Dionisio Hernández S/N - Achupallas",
+    "coordinates": [-33.00250166041518, -71.5064125823978]
+  },
+  {
+    "title": "Albergue Municipal",
+    "location": "Liceo Bicentenario José Francisco Vergara",
+    "address": "Índico 4545, Viña del Mar",
+    "coordinates": [-32.99760050209312, -71.51938113690338]
+  },
+  {
+    "title": "Servicios de Salud",
+    "location": "SAPU Dr. Jorge Kaplán",
+    "address": "C. Ocho 169, 2552775 Viña del Mar",
+    "coordinates": [-32.99381398268835, -71.4859682704792]
+  }
+]
