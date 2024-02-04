@@ -22,6 +22,7 @@ const Map = ({ helpAreas }) => {
       iconSize: [32, 48], // Tamaño del ícono
       iconAnchor: [16, 32], // Punto de anclaje del ícono (la parte del ícono que se alinea con la ubicación del marcador)
       popupAnchor: [0, -32], // Punto de anclaje del popup (la parte del popup que se alinea con la ubicación del marcador)
+      shadowUrl: '../marker-shadow.png',
     })
 
     // Itera sobre los lugares y agrega marcadores con el ícono personalizado
