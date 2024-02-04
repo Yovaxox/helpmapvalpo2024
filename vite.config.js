@@ -5,4 +5,10 @@ export default {
   build: {
     outDir: 'dist',
   },
+  server: {
+    // Agrega esto para manejar archivos .jsx
+    fs: {
+      strict: false,
+    },
+  },
 };
